@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>angle.bmp</file>
-        <file>cube.bmp</file>
-        <file>floor.bmp</file>
-    </qresource>
-</RCC>
